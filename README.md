@@ -4,7 +4,7 @@ This repository contains a collection of small projects aimed at practicing and 
 
 ## Projects
 
-1. 3D Forms
+1. 3D Forms - 
    Sign In and Sign Up Forms with 3D visuals
 
 ## Usage
