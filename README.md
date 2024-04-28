@@ -4,11 +4,14 @@ This repository contains a collection of small projects aimed at practicing and 
 
 ## Projects
 
-1. 3D Forms
+1. 3D Forms -
    Sign In and Sign Up Forms with 3D visuals
 
-2. House
+2. House -
    Animated House with animations
+
+3. Search Bar -
+   A simple search bar with animations
 
 ## Usage
 
