@@ -13,6 +13,9 @@ This repository contains a collection of small projects aimed at practicing and 
 3. Search Bar -
    A simple search bar with animations
 
+4. Clock -
+   An analog clock with hands animations
+
 ## Usage
 
 1. Clone this repository to your local machine:
