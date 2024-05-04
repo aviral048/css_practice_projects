@@ -16,6 +16,9 @@ This repository contains a collection of small projects aimed at practicing and 
 4. Clock -
    An analog clock with hands animations
 
+5. Navbar -
+   A simple navbar with animations
+
 ## Usage
 
 1. Clone this repository to your local machine:
